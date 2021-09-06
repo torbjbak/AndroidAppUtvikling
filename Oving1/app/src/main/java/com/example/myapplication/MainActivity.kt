@@ -25,6 +25,21 @@ class MainActivity : AppCompatActivity() {
         Log.d("WARNING", personalName)
     }
 
+    fun onClickGetRandomNumber(view: View) {
+        var maxValue: Int
+
+        findViewById<EditText>(R.id.randomNumberMaxInput).apply {
+            maxValue = this.text.toString().toInt()
+            setText("")
+            clearFocus()
+        }
+        val number: Int = maxValue
+
+        findViewById<TextView>(R.id.randomNumberOutput).apply {
+            text = number.toString()
+        }
+    }
+
     fun writeFamilyName(view: View) {
         familyName = "Bakke"
 
