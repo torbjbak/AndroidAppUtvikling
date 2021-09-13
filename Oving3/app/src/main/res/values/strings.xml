@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="add_friend">Add friend</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_text">Name:</string>
+    <string name="date_text">Birth date:</string>
+    <string name="name_hint">Enter name</string>
+    <string name="date_hint">Enter date</string>
+</resources>

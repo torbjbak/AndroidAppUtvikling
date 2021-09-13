@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Oving2</string>
+    <string name="return_button">Return</string>
+    <string name="main_get_random_button">Make a random number</string>
+    <string name="random_number_result">[ Random number result will show here ]</string>
+    <string name="main_arithmetic_button">Go do arithmetic</string>
+    <string name="add">Adder</string>
+    <string name="multiply">Multipliser</string>
+    <string name="answer">Svar:</string>
+    <string name="upp_limit">Øvre grense:</string>
+    <string name="correct">Riktig!</string>
+    <string name="wrong">Feil, svaret var</string>
+    <string name="upper_limit_input">Øvre grense input</string>
+    <string name="answer_input">Svar input</string>
+</resources>
