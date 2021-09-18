@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Oving4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="list">List fragment</string>
+    <string name="picture_description">Picture description</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="exit">Exit</string>
+
+    <string name="torg">Torg</string>
+    <string name="dtp">DTP</string>
+    <string name="scrum">Scrum</string>
+
+    <string name="torg_d">A WebComic character named Torg</string>
+    <string name="dtp_d">Devin Townsend Project, a progressive metal band</string>
+    <string name="scrum_d">Scrum, a framework for team based product development</string>
+
+    <string-array name="picture_names">
+        <item>@string/torg</item>
+        <item>@string/dtp</item>
+        <item>@string/scrum</item>
+    </string-array>
+
+    <string-array name="picture_descriptions">
+        <item>@string/torg_d</item>
+        <item>@string/dtp_d</item>
+        <item>@string/scrum_d</item>
+    </string-array>
+
+    <array name="pictures">
+        <item>@drawable/torg</item>
+        <item>@drawable/dtp</item>
+        <item>@drawable/scrum</item>
+    </array>
+</resources>
