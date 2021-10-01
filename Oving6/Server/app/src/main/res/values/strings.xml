@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="server_title">Server</string>
+    <string name="info_text">Info will show up here</string>
+</resources>
