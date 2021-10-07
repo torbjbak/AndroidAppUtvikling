@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Client</string>
+
+    <string name="client_title">Client</string>
+    <string name="info_text">Info will show up here</string>
+
+    <string name="name_input_hint">Enter name here</string>
+    <string name="chat_name_info">Your user name:</string>
+    <string name="chat_name_button">Select user name</string>
+    <string name="message_button">Send message</string>
+    <string name="mesasage_hint">Write message here</string>
+</resources>

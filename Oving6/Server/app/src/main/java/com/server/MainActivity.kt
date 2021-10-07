@@ -11,6 +11,5 @@ class MainActivity : AppCompatActivity() {
 
         val infoText = findViewById<TextView>(R.id.infoText)
         Server(infoText).start()
-
     }
 }
