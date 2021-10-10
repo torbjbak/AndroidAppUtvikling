@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="night_mode_entries">
+        <item>System default</item>
+        <item>Always off</item>
+        <item>Always on</item>
+        <item>By battery level</item>
+    </string-array>
+    <string-array name="night_mode_values">
+        <item>MODE_NIGHT_FOLLOW_SYSTEM</item>
+        <item>MODE_NIGHT_NO</item>
+        <item>MODE_NIGHT_YES</item>
+        <item>MODE_NIGHT_AUTO_BATTERY</item>
+    </string-array>
+</resources>

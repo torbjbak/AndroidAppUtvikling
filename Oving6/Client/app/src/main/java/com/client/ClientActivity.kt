@@ -10,7 +10,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 
-class MainActivity : Activity() {
+class ClientActivity : Activity() {
     private val selectNameRequestCode = 1
     private var name = ""
 
