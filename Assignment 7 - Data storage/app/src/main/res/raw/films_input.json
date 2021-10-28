@@ -1,0 +1,27 @@
+[
+  {
+    "director": "Denis Villeneuve",
+    "film": "Arrival",
+    "actors": ["Amy Adams", "Jeremy Renner"]
+  },
+  {
+    "director": "Denis Villeneuve",
+    "film": "Blade Runner 2049",
+    "actors": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"]
+  },
+  {
+    "director": "Nicolas Winding Refn",
+    "film": "Drive",
+    "actors": ["Ryan Gosling", "Carey Mulligan", "Bryan Cranston"]
+  },
+  {
+    "director": "Ridley Scott",
+    "film": "Gladiator",
+    "actors": ["Russel Crowe", "Joaquin Phoenix"]
+  },
+  {
+    "director": "Steven Spielberg",
+    "film": "Jurassic Park",
+    "actors": ["Sam Neill", "Laura Dern", "Jeff Goldblum"]
+  }
+]

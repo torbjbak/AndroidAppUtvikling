@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        app:defaultValue="@string/color_selection_default_value"
+        app:entries="@array/color_selection_entries"
+        app:entryValues="@array/color_selection_values"
+        app:key="@string/color_selection"
+        app:title="@string/color_selection_title"
+        app:useSimpleSummaryProvider="true" />
+</PreferenceScreen>

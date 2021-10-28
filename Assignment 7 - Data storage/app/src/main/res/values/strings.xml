@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Oving7</string>
+
+    <string name="color_selection_title">Select color</string>
+    <string name="color_selection">colorSelection</string>
+    <string name="color_selection_default_value">DEFAULT</string>
+
+    <string name="background_text">
+        Use the dropdown menu to select film queries,
+        or open the settings vie the cog to select a background color.
+    </string>
+
+    <string name="back">Back</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings">Settings</string>
+</resources>
